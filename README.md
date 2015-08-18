@@ -12,3 +12,5 @@ maintains student recordes of the persons who entering/leaving into college libr
 
 He/She has to scan their ID card whenever they enter/leave into libray. The System automatically signin/logof the user.
 
+for more details about developer
+[*venkata-ramana*](https://venkata-ramana.github.io/).
