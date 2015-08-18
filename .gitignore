@@ -1,0 +1,5 @@
+#git ignore for databases
+.sql
+
+#ignore temporary files
+*~
